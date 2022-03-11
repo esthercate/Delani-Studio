@@ -17,6 +17,10 @@ h4,
   text-transform: uppercase;
 }
 
+h6 {
+  font-weight: bold;
+}
+
 /*Hero section styles*/
 
 .hero {
@@ -53,8 +57,13 @@ h4,
   color: white;
 }
 /*What we do section*/
+.imgs {
+  cursor: pointer;
+}
+
 .hidden {
   display: none;
+  padding: 0 2rem;
 }
 
 /*Portfolio section*/
