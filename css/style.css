@@ -1,0 +1,18 @@
+.container-fluid {
+  text-align: center;
+}
+
+h1,
+h3,
+.description,
+.par1 {
+  text-transform: uppercase;
+}
+
+.hero {
+  height: 100vh;
+  width: auto;
+  background: url("../assets/backgrounds/h_img.jpg") no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
