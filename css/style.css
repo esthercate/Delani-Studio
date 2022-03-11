@@ -57,13 +57,16 @@ h6 {
   color: white;
 }
 /*What we do section*/
-.imgs {
+.imgs1,
+.imgs2,
+.imgs3 {
   cursor: pointer;
 }
 
 .hidden {
   display: none;
   padding: 0 2rem;
+  cursor: pointer;
 }
 
 /*Portfolio section*/
