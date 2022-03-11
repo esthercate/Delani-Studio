@@ -55,3 +55,16 @@ h4,
   color: white;
   line-height: 2rem;
 }
+
+/*What we do section*/
+.what-we-do {
+  padding: 4rem 0;
+}
+
+.what-we-do h4 {
+  padding-bottom: 2rem;
+}
+
+.what-we-do .description {
+  padding-top: 1rem;
+}
