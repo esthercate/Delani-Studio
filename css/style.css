@@ -46,3 +46,12 @@ h4,
   padding: 4rem 8rem;
   line-height: 2rem;
 }
+
+/*Services styles*/
+.services {
+  background: url("../assets/backgrounds/s_image.jpg") no-repeat;
+  background-position: top;
+  padding: 8rem 12rem;
+  color: white;
+  line-height: 2rem;
+}
