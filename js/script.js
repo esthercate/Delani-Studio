@@ -1,3 +1,4 @@
+//User interface logic Or Front-end
 $(document).ready(function () {
   // What we do section
   $(".imgs1").click(function () {
@@ -40,4 +41,18 @@ $(document).ready(function () {
       $(".overlay", this).hide();
       $(".overlay-p", this).hide();
     });
+
+
+  $("form#myForm").submit(function (event) {
+    event.preventDefault();
+    var visitorName = $(".name").val();
+
+    if (visitorName != "") {
+      alert("Hi " + visitorName + ", \nWe have received your message. Thank you for reaching out to us.");
+    } else {
+      return false;
+    };
+    $('#myForm').trigger("reset");
+  });
+
 });
