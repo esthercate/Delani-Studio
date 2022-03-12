@@ -5,7 +5,6 @@ function capitalize(string) {
 
 //User interface logic Or Front-end
 $(document).ready(function () {
-  // What we do section
   $(".imgs1").click(function () {
     $(".hidden1").toggle();
     $(".imgs1").toggle();
