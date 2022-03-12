@@ -10,8 +10,6 @@ management services.
 
 - [Catherine Vuthi](https://github.com/esthercate)
 
-
-
 ## Setup Instructions
 
 - Fork this repository.
@@ -19,7 +17,6 @@ management services.
 - Contribute by making changes or fixing errors.
 - Push Changes.
 - Create a pull request for me to review your code.
-
 
 ## Technology Stack Used
 
@@ -40,6 +37,5 @@ For support, send email to vuthi.esther@gmail.com.
 
 [MIT](https://choosealicense.com/licenses/mit/) License
 
-
 ## 🔗 Live Links
-- [Delani Studio](https://github.com/esthercate)
+- [Delani Studio](https://esthercate.github.io/Delani-Studio/)
