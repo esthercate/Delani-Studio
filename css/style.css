@@ -28,8 +28,8 @@ h6 {
   height: 100vh;
   min-width: 100%;
   background: url("../assets/backgrounds/h_img.jpg") no-repeat;
-  background-size: 100% 100%;
-
+  background-size: cover;
+  background-position: left;
 }
 
 .logo {
@@ -37,7 +37,7 @@ h6 {
 }
 
 .hero .main {
-  padding-bottom: 4rem;
+  padding-bottom: 5rem;
 }
 
 .hero h1 {
