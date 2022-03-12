@@ -154,7 +154,7 @@ ul {
   display: flex;
   list-style-type: none;
   justify-content: center;
-  margin: 3rem 0;
+  margin: 1rem;
 }
 
 li {
